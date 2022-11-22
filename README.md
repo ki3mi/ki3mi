@@ -1,4 +1,4 @@
-![miku-nakano](https://user-images.githubusercontent.com/92237394/176053928-dac1ca1d-a49d-443e-8357-242ce0999b9c.gif)
+:v
 
 <!--
 **ki3mi/ki3mi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
